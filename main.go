@@ -1,34 +1,28 @@
 package main
 
 import (
-	"example.com/golang_practice/DataTypeAndConditions"
+	// "example.com/golang_practice/DataTypeAndConditions"
+	"example.com/golang_practice/Loops"
 )
 
 func main() {
-	// DataTypeAndConditions.SayHello()
-	// DataTypeAndConditions.BasicDataType()
-	// DataTypeAndConditions.SimpleCalculator()
-	// DataTypeAndConditions.Difference()
-	// DataTypeAndConditions.AreaofaCircle()
-	// DataTypeAndConditions.DigitsSummation()
-	// DataTypeAndConditions.Summationfrom1toN()
-	// DataTypeAndConditions.Twonumbers()
-	// DataTypeAndConditions.WelcomeforyouwithConditions()
-	// DataTypeAndConditions.Multiples()
-	// DataTypeAndConditions.TheBrothers()
-	// DataTypeAndConditions.CapitalorSmalorDigit()
-	// DataTypeAndConditions.MaxandMin()
-	// DataTypeAndConditions.Char()
-	// DataTypeAndConditions.Calculator()
-	// DataTypeAndConditions.AgeinDays()
-	// DataTypeAndConditions.CoordinatesofaPoint()
-	// DataTypeAndConditions.Interval()
-	// DataTypeAndConditions.SortNumber()
-	// DataTypeAndConditions.FloatOrInt()
-	// DataTypeAndConditions.Comparison()
-	// DataTypeAndConditions.MathematicalExpression()
-	// DataTypeAndConditions.TwoIntervals()
-	// DataTypeAndConditions.Thelast2digits()
-	DataTypeAndConditions.HardCompare()
-
+	// Loops.OneToN()
+	// Loops.EvenNumbers()
+	// Loops.FixedPassword()
+	// Loops.Max()
+	// Loops.MultiplicationTable()
+	// Loops.Factorial()
+	// Loops.OnePrime()
+	// Loops.Palindrome()
+	// Loops.PrimesFrom1ToN()
+	// Loops.Divisors()
+	// Loops.GCD()
+	// Loops.LuckyNumbers()
+	// Loops.NumbersHistogram()
+	// Loops.Pyramid()
+	// Loops.Shape1()
+	// Loops.Digits()
+	// Loops.SequenceOfNumbersAndSum()
+	// Loops.SumOfConsecutiveOddNumbers()
+	Loops.Shape2()
 }
